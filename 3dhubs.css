@@ -1,0 +1,110 @@
+/* For the red button */
+
+.hubs-btn-red {
+	display: block; 
+	width: 120px; 
+	margin: 15px 0; 
+	color: #fff; 
+	background-color: #f65857; 
+	border: none; 
+	border-radius: 2px; 
+	border-bottom: 1px solid #c30c0a; 
+	font-family: 'ProximaNova-Regular', Helvetica, Arial, 'Nimbus Sans L', sans-serif; 
+	text-decoration: none; 
+	text-align: center; 
+	line-height: 13px; 
+	vertical-align: middle; 
+	padding: 6px 11px 3px 12px !important; 
+	text-transform: uppercase; 
+	letter-spacing: 1px; 
+	font-size: 16px; 
+	-webkit-transition: all 0.15s linear; 
+	-moz-transition: all 0.15s linear; 
+	-o-transition: all 0.15s linear; 
+	transition: all 0.15s linear;
+}
+
+.hubs-btn-red:hover { 
+	background-color: #f7706f; 
+	border-bottom-color: #e50e0c;
+} 
+
+.hubs-btn-red span {
+	display: inline-block; 
+	vertical-align: top; 
+	margin: 7px 0 0 12px;
+}
+
+/* For the green button */
+
+.hubs-btn-green {
+    display: block;
+    width: 120px;
+    margin: 15px 0;
+    color: #fff;
+    background-color: #5AD0B8;
+    border: none;
+    border-radius: 2px;
+    border-bottom: 1px solid #31AC93;
+    font-family: 'ProximaNova-Regular', Helvetica, Arial, 'Nimbus Sans L', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    line-height: 13px;
+    vertical-align: middle;
+    padding: 6px 11px 3px 12px !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+    -webkit-transition: all 0.15s linear;
+    -moz-transition: all 0.15s linear;
+    -o-transition: all 0.15s linear;
+    transition: all 0.15s linear;
+}
+
+.hubs-btn-green:hover {
+    background-color: #7ad9c6;
+    border-bottom-color: #46caaf;
+}
+
+.hubs-btn-green span {
+    display: inline-block;
+    vertical-align: top;
+    margin: 7px 0 0 12px;
+}
+
+/* For the white button */
+
+.hubs-btn-white {
+    display: block;
+    width: 120px;
+    margin: 15px 0;
+    color: #666;
+    background-color: #F8F8F8;
+    border: none;
+    border-radius: 2px;
+    border-bottom: 1px solid #E4E4E4;
+    font-family: 'ProximaNova-Regular', Helvetica, Arial, 'Nimbus Sans L', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    line-height: 13px;
+    vertical-align: middle;
+    padding: 6px 11px 3px 12px !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+    -webkit-transition: all 0.15s linear;
+    -moz-transition: all 0.15s linear;
+    -o-transition: all 0.15s linear;
+    transition: all 0.15s linear;
+}
+
+.hubs-btn-white:hover {
+    background-color: #f1f1f1;
+    border-bottom-color: #e0e0e0;
+}
+
+.hubs-btn-white span {
+    display: inline-block;
+    vertical-align: top;
+    margin: 7px 0 0 12px;
+}
